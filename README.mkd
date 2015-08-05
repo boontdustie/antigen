@@ -612,7 +612,6 @@ find useful.
     load file for a fast startup. Has no external dependencies, as it's written
     in pure zsh.
 
-
 [Vundle]: https://github.com/gmarik/vundle
 [page on themes]: https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 [awesome-zsh-plugins]: https://github.com/unixorn/awesome-zsh-plugins
